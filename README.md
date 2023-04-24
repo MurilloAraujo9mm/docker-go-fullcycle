@@ -1,5 +1,5 @@
 # Full cycle developer
-<h1 align="center"> CoreBiz Project | Docker multistage build </h1>
+<h1 align="left"> CoreBiz Project | Docker multistage build </h1>
 
 
 
@@ -16,5 +16,7 @@
 
 Status do Projeto: Concluido (ok)
 
-## Deploy da Aplicação com Heroku: :dash:
 
+imagem publicada no dockerhub, para rodar basta executar: docker run murillo9mm/fullcycle
+
+https://hub.docker.com/repository/docker/murillo9mm/fullcycle
