@@ -1,5 +1,5 @@
 # Full cycle developer
-<h1 align="left"> CoreBiz Project | Docker multistage build </h1>
+<h1 align="left">Docker multistage build </h1>
 
 
 
